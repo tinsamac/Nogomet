@@ -29,7 +29,7 @@
 			<p>
 				<h2 align="center">Bayern Munchen</h2>
 				<p>
-					<h3 align="center"> Saznajte nešto više o <a href="bayern munchen.html"> najpoznatijem njemačkom klubu </a>
+					<h3 align="center"> Saznajte nešto više o <a href="bayern munchen.html"> Bayern Munchenu</a>
 			</p>
 			</p>
 		</div>
