@@ -1,40 +1,40 @@
-Nogomet
-
-Nogomet je ekipni sport koji se igra izmeu dvije ekipe sastavljenih od jedanaest igraËa ili igraËica
-TrenutaËno je najpopularniji sport na svijetu
-Igra se nogometnom loptom na pravokutnom igraliötu s travnatom ili umjetnom povröinom
-Cilj je ubaciti loptu u protivniËki gol bilo kojim dijelom tijela osim rukom
-Jedino vratar moûe u ograniËenom podruËju igrati rukom
-Suvremena nogometna igra razvila se u Engleskoj poslije stvaranja prvog nogometnog saveza davne 1863. godine
-Prva pravila datiraju iz iste godine, a s manjim promjenama odrûala su se i do danas
-Najviöe nogometno tijelo je FIFA Danas se nogometom bavi preko 250 milijuna muökaraca i ûena, dok registriranih aktivnih igraËa i igraËica ima oko 40 milijuna
-Najpoznatiji klubovi na svijetu su: Real Madrid, Barcelona i Manchester United
-
-Real Madrid
-
-äpanjolski klub smjeöten u glavnome öpanjolskom gradu Madridu
-Sluûbeno osnovan 1902. godine
-Proglaöen najboljim klubom 21. stoljeÊa
-Igraju na stadionu Santiago Bernabeu
-U svojoj je povijesti rekorder po broju osvojenih naslova prvaka Europe, uspjelo im je to Ëak 13 puta
-äpanjolsku Primera ligu (La Ligu) osvajali su 33 puta, öto je najviöe od svih öpanjolskih klubova, Kup kralja osvajali su 19 puta, 10 puta su osvojli öpanjolski SuperKup, jednom su bili pobjednici Copa Eva Duarte te jednom pobjednici öpanjolskog LigaKupa
-äto se tiËe ostalih europskih i svjetskih natjecanja joö su dva puta osvajali Kup UEFA, tri puta Europski superkup te Ëetiri puta Interkontinentalni kup i jedno klupsko FIFA svjetsko prvenstvo
-Real Madrid je, nesluûbeno, najtrofejniji klub na svijetu.
-Real Madrid je najbogatiji klub po prihodima (513 mil. Ä u 2013. godini) te najbogatiji i najvrijedniji sportski kolektiv na svijetu (2,4 mlrd. Ä)
-
-Barcelona
-
-Profesionalni smjeöten u Barceloni(Kataloniji)
-Osnovana 1899. godine
-Drugi najbogatiji nogometni klub u svijetu s prosjeËnom zaradom od 398 milijuna Eura
-Sveukupno su öpanjolsku nogometnu ligu (La Liga) osvojili 26 puta
-Uz to 31 put su bili pobjednici öpanjolskog kupa (Copa del Rey), 12 puta pobjednici öpanjolskog superkupa, 3 puta pobjednici kupa Eva Duarte i 2 puta osvajaËi trofeja Copa de la Liga
-U meunarodnim natjecanjima, Barcelona je pet 5 puta bila pobjednik Lige prvaka, rekordnih 4 puta pobjednik Kupa pobjednika kupova, 5 puta UEFA Superkupa i rekordnih 3 puta pobjednik kupa Inter-Cities Fairs te rekordna 3 puta osvajaË naslova svjetskog klupskog nogometnog prvaka
-Igraju na stadionu Camp Nou
-
-Manchester United
-
-Engleski nogometni klub koji svoje domaÊe utakmice igra na stadionu Old Trafford u Manchesteru.
-Jedan je od najuspjeönijih engleskih i europskih nogometnih klubova sa 20 naslova prvaka, 12 pobjeda u engleskom kupu i tri naslova europskih prvaka.
-Osnovan 1878. godine
-Globalno popularan, posebno na Dalekom Istoku
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="ureƒëivanje.css>
+<title>Nogomet</title>
+</head>
+<body background="pozadina.png>
+	<div class="sve">
+		<div class="naslov">
+			<h1 align="center" >Nogomet</h1>
+		</div>
+		<div class="tijelo">
+			<p class="link">
+				<h2 align="center">Real Madrid</h2>
+					<p>
+						<h3 align="center"> Proƒçitajte ne≈°to vi≈°e o <a href="real madrid.html">Real Madridu</a>.
+					</p>
+				</p>
+			<p>
+				<h2 align="center">Barcelona</h2>
+				<p>
+					<h3 align="center">Proƒçitajte ne≈°to vi≈°e o <a href="barcelona.html">Barceloni</a>
+			</p>
+			<p>
+				<h2 align="center">Manchester United</h2>
+				<p>
+					<h3 align="center">Proƒçitajte ne≈°to vi≈°e o <a href="manchester united.html">Manchester Unitedu</a>
+			</p>
+			<p>
+				<h2 align="center">Bayern Munchen</h2>
+				<p>
+					<h3 align="center"> Saznajte ne≈°to vi≈°e o <a href="bayern munchen.html"> Bayern Munchenu</a>
+			</p>
+			</p>
+		</div>
+		<div class="zaglavlje">
+		</div>
+	</div>
+</body>
+</html>
