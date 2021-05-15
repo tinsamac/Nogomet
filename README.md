@@ -7,13 +7,13 @@
 <body background="pozadina.png>
 	<div class="sve">
 		<div class="naslov">
-			<h1 align="center" >Barcelona</h1>
+			<h2 align="center" >Barcelona</h1>
 		</div>
 		<div class="tijelo">
 			<p class="link">
 				<h2 align="center">Barcelona</h2>
 					<p>
-						Profesionalni klub smješten u Barceloni(Kataloniji)
+						<h3 align="center"> Profesionalni klub smješten u Barceloni(Kataloniji)
 Osnovana 1899. godine
 Drugi najbogatiji nogometni klub u svijetu s prosječnom zaradom od 398 milijuna Eura
 Sveukupno su španjolsku nogometnu ligu (La Liga) osvojili 26 puta
@@ -23,10 +23,5 @@ Igraju na stadionu Camp Nou
 					</p>
 				</p>
 			<p>
-				
-		</div>
-		<div class="zaglavlje">
-		</div>
-	</div>
 </body>
 </html>
