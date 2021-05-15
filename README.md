@@ -15,7 +15,7 @@ Nešto o nogometu
 			<p class="link">
 				<h2 align="center">Real Madrid</h2>
 					<p>
-						<h3 align="center"> Pročitajte nešto više o <a href="real madrid.html>Real Madridu</a>.
+						<h3 align="center"> Pročitajte nešto više o <a href="realmadrid.html>Real Madridu</a>.
 					</p>
 				</p>
 			<p>
@@ -26,7 +26,7 @@ Nešto o nogometu
 			<p>
 				<h2 align="center">Manchester United</h2>
 				<p>
-					<h3 align="center"Pročitajte o <a href="manchester united.html>Manchester Unitedu</a>
+					<h3 align="center"Pročitajte o <a href="manchesterunited.html>Manchester Unitedu</a>
 			</p>
 			<p>
 		</div>
