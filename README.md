@@ -25,9 +25,9 @@
 			<p>
 				<h2 align="center">Manchester United</h2>
 				<p>
-					<h3 align="center"Pročitajte o <a href="manchesterunited.html>Manchester Unitedu</a>
+					<h3 align="center"Pročitajte nešto više o <a href="manchester united.html>Manchester Unitedu</a>
 			</p>
-			<p>
+			</p>
 		</div>
 		<div class="zaglavlje">
 		</div>
