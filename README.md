@@ -20,14 +20,14 @@
 			<p>
 				<h2 align="center">Barcelona</h2>
 				<p>
-					<h3 align="center"Pročitajte nešto više o <a href="barcelona.html>Barceloni</a>
+					<h3 align="center">Pročitajte nešto više o <a href="barcelona.html>Barceloni</a>
 			</p>
 			<p>
 				<h2 align="center">Manchester United</h2>
 				<p>
-					<h3 align="center"Pročitajte nešto više o <a href="manchester united.html>Manchester Unitedu</a>
+					<h3 align="center">Pročitajte nešto više o <a href="manchester united.html>Manchester Unitedu</a>
 			</p>
-			</p>
+			<p>
 		</div>
 		<div class="zaglavlje">
 		</div>
