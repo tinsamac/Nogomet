@@ -1,5 +1,4 @@
 # Nogomet
-Nešto o nogometu
 <html>
 <head>
 <meta charset="UTF-8">
